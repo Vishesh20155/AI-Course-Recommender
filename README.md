@@ -19,7 +19,10 @@ In order to run the program, ensure that following are installed:
 `nltk.download(stopwords)`
 
 
-A sample run:
+Run the program using:
+`python program.py`
 
-![image](https://user-images.githubusercontent.com/88935135/213267305-8c7316de-c554-432b-b329-ac3d91640ef6.png)
 
+A sample run of the program:
+
+![image](https://user-images.githubusercontent.com/88935135/213267851-b3a71d81-ea60-4bc2-ab3b-a42e54fbc53c.png)
