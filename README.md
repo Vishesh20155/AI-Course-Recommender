@@ -11,10 +11,15 @@ Several Forward and Backward Chaining rules are defined as:
 
 In order to run the program, ensure that following are installed:
 
-- nltk → pip install nltk
-- pyswip → pip install pyswip
+- nltk → `pip install nltk`
+- pyswip → `pip install pyswip`
 - punkt module of nltk → In Python shell or IDLE (not the normal terminal),
-nltk.download(‘punkt’)
+`nltk.download(‘punkt’)`
 - punkt module of nltk → In Python shell or IDLE (not the normal terminal), 
 `nltk.download(stopwords)`
+
+
+A sample run:
+
+![image](https://user-images.githubusercontent.com/88935135/213267305-8c7316de-c554-432b-b329-ac3d91640ef6.png)
 
